@@ -22,7 +22,7 @@ export const Shop = ({ data }) => {
             return (
               <div
                 key={index}
-                className="w-44 md:w-56 mb-4 md:mb-0 md:mx-0 text-center border-2 rounded-xl flex flex-col justify-between"
+                className="w-48 md:w-56 mb-4 md:mb-0 md:mx-0 text-center border-2 rounded-xl flex flex-col justify-between"
               >
                 <div className="w-full h-60 md:h-80">
                   <img

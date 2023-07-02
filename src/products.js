@@ -35,7 +35,7 @@ const products = [
         id: 4,
         name: "Jasmine Green Tea",
         description: "(1x30 pack)",
-        price: 5000,
+        price: 5500,
         image: jasmineGreenTea
     },
     {
@@ -49,7 +49,7 @@ const products = [
         id: 6,
         name: "ကောက်ညှင်းမွှေး လှော်သင်းရနံ့လက်ဖက်ခြောက်",
         description: "အသင့်ဖျော် (1x30 pack)",
-        price: 5000,
+        price: 5500,
         image: knm
     },
     {
