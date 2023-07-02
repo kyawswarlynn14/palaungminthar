@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/palaungminthar/static/css/main.692d4aa8.css",
-    "main.js": "/palaungminthar/static/js/main.d48b1f86.js",
+    "main.css": "/palaungminthar/static/css/main.eea1993a.css",
+    "main.js": "/palaungminthar/static/js/main.552ef904.js",
     "static/media/nlk.jpg": "/palaungminthar/static/media/nlk.5a1c2ec44131bbceb441.jpg",
     "static/media/green-tea.jpg": "/palaungminthar/static/media/green-tea.1e95702ef51a18582662.jpg",
     "static/media/product1.jpg": "/palaungminthar/static/media/product1.1e95702ef51a18582662.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo1.jpg": "/palaungminthar/static/media/logo1.40ad69499ef5d33d84c6.jpg",
     "static/media/about.jpg": "/palaungminthar/static/media/about.479ea7d0c1b043036c72.jpg",
     "index.html": "/palaungminthar/index.html",
-    "main.692d4aa8.css.map": "/palaungminthar/static/css/main.692d4aa8.css.map",
-    "main.d48b1f86.js.map": "/palaungminthar/static/js/main.d48b1f86.js.map"
+    "main.eea1993a.css.map": "/palaungminthar/static/css/main.eea1993a.css.map",
+    "main.552ef904.js.map": "/palaungminthar/static/js/main.552ef904.js.map"
   },
   "entrypoints": [
-    "static/css/main.692d4aa8.css",
-    "static/js/main.d48b1f86.js"
+    "static/css/main.eea1993a.css",
+    "static/js/main.552ef904.js"
   ]
 }
