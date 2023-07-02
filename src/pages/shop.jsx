@@ -9,11 +9,11 @@ export const Shop = ({ data }) => {
   return (
     <div className="w-full min-h-screen">
       <div className="w-[90%] md:w-[80%] mx-auto pb-4">
-        <h1 className="text-2xl py-2 font-bold font-mono text-center">
+        <h1 className="text-lg md:text-2xl py-2 font-bold font-mono text-center">
           Welcome to Palaung Min Thar's Shop
         </h1>
 
-        <p className="text-xl text-center text-amber-400 tracking-wider">
+        <p className="md:text-xl text-center text-amber-400 tracking-wider">
           Happy Shopping...
         </p>
 
@@ -22,9 +22,9 @@ export const Shop = ({ data }) => {
             return (
               <div
                 key={index}
-                className="w-48 md:w-56 mb-4 md:mb-0 md:mx-0 text-center border-2 rounded-xl flex flex-col justify-between"
+                className="w-56 mb-4 md:mb-0 md:mx-0 text-center border-2 rounded-xl flex flex-col justify-between"
               >
-                <div className="w-full h-60 md:h-80">
+                <div className="w-full h-auto md:h-80">
                   <img
                     src={shop.image}
                     className="w-full h-full md:h-auto rounded-t-lg"
