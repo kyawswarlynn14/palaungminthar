@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/palaungminthar/static/css/main.4f38bd10.css",
+    "main.js": "/palaungminthar/static/js/main.4efb0b9f.js",
+    "static/media/nlk.jpg": "/palaungminthar/static/media/nlk.5a1c2ec44131bbceb441.jpg",
+    "static/media/green-tea.jpg": "/palaungminthar/static/media/green-tea.1e95702ef51a18582662.jpg",
+    "static/media/product1.jpg": "/palaungminthar/static/media/product1.1e95702ef51a18582662.jpg",
+    "static/media/lk.jpg": "/palaungminthar/static/media/lk.ab3db8a00d8ae3e081c0.jpg",
+    "static/media/product3.jpg": "/palaungminthar/static/media/product3.ab3db8a00d8ae3e081c0.jpg",
+    "static/media/knm-lg.jpg": "/palaungminthar/static/media/knm-lg.e8d97e1a21d0d4225bd7.jpg",
+    "static/media/green-tea-fat.jpg": "/palaungminthar/static/media/green-tea-fat.44ed52238cbfb208c9ce.jpg",
+    "static/media/product2.jpg": "/palaungminthar/static/media/product2.b37fa11926330e16e6e2.jpg",
+    "static/media/ack.jpg": "/palaungminthar/static/media/ack.c4dad7d1e23a3a349164.jpg",
+    "static/media/jasmine-green-tea.jpg": "/palaungminthar/static/media/jasmine-green-tea.b14d35e165b7756405ba.jpg",
+    "static/media/lk-new.jpg": "/palaungminthar/static/media/lk-new.221db9c7f34dd7b3404d.jpg",
+    "static/media/knm.jpg": "/palaungminthar/static/media/knm.7f41ff71c55573be0ce2.jpg",
+    "static/media/mky.jpg": "/palaungminthar/static/media/mky.7440512c767fe0ceea1c.jpg",
+    "static/media/logo1.jpg": "/palaungminthar/static/media/logo1.40ad69499ef5d33d84c6.jpg",
+    "static/media/about.jpg": "/palaungminthar/static/media/about.479ea7d0c1b043036c72.jpg",
+    "index.html": "/palaungminthar/index.html",
+    "main.4f38bd10.css.map": "/palaungminthar/static/css/main.4f38bd10.css.map",
+    "main.4efb0b9f.js.map": "/palaungminthar/static/js/main.4efb0b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f38bd10.css",
+    "static/js/main.4efb0b9f.js"
+  ]
+}
