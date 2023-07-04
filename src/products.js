@@ -20,8 +20,8 @@ const products = [
     {
         id: 2,
         name: "Green Tea အဆီကျကျန်းမာရေး လက်ဖက်ခြောက်",
-        description: "(1x15 pack)",
-        price: 5500,
+        description: "(1x15 packs)",
+        price: 7000,
         image: greenTeaFat
     },
     {
@@ -34,7 +34,7 @@ const products = [
     {
         id: 4,
         name: "Jasmine Green Tea",
-        description: "(1x30 pack)",
+        description: "(1x30 packs)",
         price: 5500,
         image: jasmineGreenTea
     },
@@ -48,7 +48,7 @@ const products = [
     {
         id: 6,
         name: "ကောက်ညှင်းမွှေး လှော်သင်းရနံ့လက်ဖက်ခြောက်",
-        description: "အသင့်ဖျော် (1x30 pack)",
+        description: "အသင့်ဖျော် (1x30 packs)",
         price: 5500,
         image: knm
     },
@@ -69,7 +69,7 @@ const products = [
     {
         id: 9,
         name: "မြင်းခွာရွက် ကျန်းမာရေးလက်ဖက်ခြောက်",
-        description: "(1x30 pack)",
+        description: "(1x30 packs)",
         price: 5500,
         image: mky
     },
